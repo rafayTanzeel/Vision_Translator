@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafay\.android\build-cache\e47efd635b75b9d1099c1fe638f28b2467bc6f4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70bd0115d0baf1ca4dd5cb597c28517a02e32113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dda992aa66ed7184418f75180196e56e94db907b">
+        <dex dex="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_23635bcf311c3f526ffb6bf9f240df287f8b8aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafay\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_3a0ece008be5a579e9592aa702c14b33d7fef3ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Rafay\Desktop\apps\VisionTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0e0a2bb7b60e4fac631285bd4f72244bbc5c4bb7\classes.dex" />
+    </item>
+
+</items>

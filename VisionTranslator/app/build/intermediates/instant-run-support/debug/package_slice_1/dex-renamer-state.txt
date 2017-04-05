@@ -1,0 +1,4 @@
+#Wed Apr 05 07:25:37 PDT 2017
+base.0=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

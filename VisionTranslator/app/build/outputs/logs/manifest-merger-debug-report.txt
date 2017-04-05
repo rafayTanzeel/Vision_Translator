@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:6:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rafay\.android\build-cache\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\b12910ebe1aa2eec6de8c47a32a83ac5fc526214\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\0808060009055cc90006d831be4320c517a14f1f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rafay\.android\build-cache\e1c8239987b1f2cbbdf120ac56525633f40de195\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\Rafay\.android\build-cache\019233b22def4ffe6918bb0c02b533e6ed04e347\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Rafay\.android\build-cache\b1aeea7b322cf7952dca70cca57cf27b13e67ab4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Rafay\.android\build-cache\459d103fe63ec8d42fede63af2f14470d2c29628\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rafay\.android\build-cache\95ff9e11aed3f41e675c9facd72afb1ab16eee6f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rafay\.android\build-cache\35617658ced737962d9d1958693856246c58dd4c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rafay\.android\build-cache\3eaf569084bee4064d7ab9b7bfa45039486c6550\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rafay\.android\build-cache\3843f14c5ff5cb80a3a3c0e703891b3022743871\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rafay\.android\build-cache\afced8e8e411b9dd54e2c5f7cf56f28f431c0d6c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rafay\.android\build-cache\0c943da749d93358b6489924c2839bf81bf5f081\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Rafay\.android\build-cache\459d103fe63ec8d42fede63af2f14470d2c29628\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:18:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:21:13-70
+activity#com.translator.tester.visiontranslator.OCR_Activity
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rafay\.android\build-cache\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\b12910ebe1aa2eec6de8c47a32a83ac5fc526214\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\0808060009055cc90006d831be4320c517a14f1f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rafay\.android\build-cache\879f205760f4c111972fc0fd65ad92755a8e675c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rafay\.android\build-cache\e1c8239987b1f2cbbdf120ac56525633f40de195\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\Rafay\.android\build-cache\019233b22def4ffe6918bb0c02b533e6ed04e347\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Rafay\.android\build-cache\b1aeea7b322cf7952dca70cca57cf27b13e67ab4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Rafay\.android\build-cache\459d103fe63ec8d42fede63af2f14470d2c29628\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rafay\.android\build-cache\95ff9e11aed3f41e675c9facd72afb1ab16eee6f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rafay\.android\build-cache\35617658ced737962d9d1958693856246c58dd4c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rafay\.android\build-cache\3eaf569084bee4064d7ab9b7bfa45039486c6550\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rafay\.android\build-cache\3843f14c5ff5cb80a3a3c0e703891b3022743871\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rafay\.android\build-cache\afced8e8e411b9dd54e2c5f7cf56f28f431c0d6c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rafay\.android\build-cache\0c943da749d93358b6489924c2839bf81bf5f081\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Rafay\.android\build-cache\e47efd635b75b9d1099c1fe638f28b2467bc6f4e\output\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rafay\Desktop\apps\VisionTranslator\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rafay\.android\build-cache\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\b12910ebe1aa2eec6de8c47a32a83ac5fc526214\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rafay\.android\build-cache\0808060009055cc90006d831be4320c517a14f1f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rafay\.android\build-cache\879f205760f4c111972fc0fd65ad92755a8e675c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rafay\.android\build-cache\e1c8239987b1f2cbbdf120ac56525633f40de195\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rafay\.android\build-cache\95ff9e11aed3f41e675c9facd72afb1ab16eee6f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rafay\.android\build-cache\35617658ced737962d9d1958693856246c58dd4c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rafay\.android\build-cache\3eaf569084bee4064d7ab9b7bfa45039486c6550\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rafay\.android\build-cache\3843f14c5ff5cb80a3a3c0e703891b3022743871\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rafay\.android\build-cache\afced8e8e411b9dd54e2c5f7cf56f28f431c0d6c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rafay\.android\build-cache\0c943da749d93358b6489924c2839bf81bf5f081\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rafay\.android\build-cache\eaea978249ef4828359a3d9062ad8a3dad074288\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Rafay\.android\build-cache\ba2215d6f882a11e6c6893c347a0bee350c6c621\output\AndroidManifest.xml:19:19-85

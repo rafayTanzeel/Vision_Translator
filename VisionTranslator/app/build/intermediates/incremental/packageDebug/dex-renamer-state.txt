@@ -1,0 +1,7 @@
+#Wed Apr 05 07:25:37 PDT 2017
+base.0=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23635bcf311c3f526ffb6bf9f240df287f8b8aa3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e0a2bb7b60e4fac631285bd4f72244bbc5c4bb7\\classes.dex
+base.1=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e0a2bb7b60e4fac631285bd4f72244bbc5c4bb7
+file.0=C\:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23635bcf311c3f526ffb6bf9f240df287f8b8aa3\\classes.dex
