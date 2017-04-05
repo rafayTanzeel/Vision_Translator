@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 3252
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -348,7 +348,7 @@
                     "endOffset": 5217
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -360,7 +360,7 @@
                     "endOffset": 5264
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -372,7 +372,7 @@
                     "endOffset": 5315
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -3468,7 +3468,7 @@
                     "endOffset": 54096
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -3480,7 +3480,7 @@
                     "endOffset": 54151
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -3516,7 +3516,7 @@
                     "endOffset": 54504
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -3740,17 +3740,17 @@
                     "startLine": 746,
                     "startColumn": 4,
                     "startOffset": 56813,
-                    "endColumn": 90,
-                    "endOffset": 56899
+                    "endColumn": 92,
+                    "endOffset": 56901
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 75,
-                        "endColumn": 90,
-                        "endOffset": 161
+                        "endColumn": 92,
+                        "endOffset": 163
                     }
                 }
             },
@@ -3758,45 +3758,45 @@
                 "to": {
                     "startLine": 747,
                     "startColumn": 4,
-                    "startOffset": 56904,
+                    "startOffset": 56906,
                     "endColumn": 134,
-                    "endOffset": 57034
+                    "endOffset": 57036
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 748,
                     "startColumn": 4,
-                    "startOffset": 57039,
+                    "startOffset": 57041,
                     "endColumn": 156,
-                    "endOffset": 57191
+                    "endOffset": 57193
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 749,
                     "startColumn": 4,
-                    "startOffset": 57196,
+                    "startOffset": 57198,
                     "endColumn": 33,
-                    "endOffset": 57225
+                    "endOffset": 57227
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 750,
                     "startColumn": 4,
-                    "startOffset": 57230,
+                    "startOffset": 57232,
                     "endColumn": 90,
-                    "endOffset": 57316
+                    "endOffset": 57318
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3806,9 +3806,9 @@
                 "to": {
                     "startLine": 751,
                     "startColumn": 4,
-                    "startOffset": 57321,
+                    "startOffset": 57323,
                     "endColumn": 300,
-                    "endOffset": 57617
+                    "endOffset": 57619
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3818,9 +3818,9 @@
                 "to": {
                     "startLine": 752,
                     "startColumn": 4,
-                    "startOffset": 57622,
+                    "startOffset": 57624,
                     "endColumn": 165,
-                    "endOffset": 57783
+                    "endOffset": 57785
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3830,9 +3830,9 @@
                 "to": {
                     "startLine": 753,
                     "startColumn": 4,
-                    "startOffset": 57788,
+                    "startOffset": 57790,
                     "endColumn": 154,
-                    "endOffset": 57938
+                    "endOffset": 57940
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3842,9 +3842,9 @@
                 "to": {
                     "startLine": 754,
                     "startColumn": 4,
-                    "startOffset": 57943,
+                    "startOffset": 57945,
                     "endColumn": 101,
-                    "endOffset": 58040
+                    "endOffset": 58042
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3854,9 +3854,9 @@
                 "to": {
                     "startLine": 755,
                     "startColumn": 4,
-                    "startOffset": 58045,
+                    "startOffset": 58047,
                     "endColumn": 52,
-                    "endOffset": 58093
+                    "endOffset": 58095
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3866,21 +3866,21 @@
                 "to": {
                     "startLine": 756,
                     "startColumn": 4,
-                    "startOffset": 58098,
+                    "startOffset": 58100,
                     "endColumn": 78,
-                    "endOffset": 58172
+                    "endOffset": 58174
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 757,
                     "startColumn": 4,
-                    "startOffset": 58177,
+                    "startOffset": 58179,
                     "endColumn": 70,
-                    "endOffset": 58243
+                    "endOffset": 58245
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3890,28 +3890,21 @@
                 "to": {
                     "startLine": 758,
                     "startColumn": 4,
-                    "startOffset": 58248,
+                    "startOffset": 58250,
                     "endColumn": 78,
-                    "endOffset": 58322
+                    "endOffset": 58324
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 707,
-                        "endColumn": 78,
-                        "endOffset": 781
-                    }
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 759,
                     "startColumn": 4,
-                    "startOffset": 58327,
+                    "startOffset": 58329,
                     "endColumn": 77,
-                    "endOffset": 58400
+                    "endOffset": 58402
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3921,9 +3914,9 @@
                 "to": {
                     "startLine": 760,
                     "startColumn": 4,
-                    "startOffset": 58405,
+                    "startOffset": 58407,
                     "endColumn": 89,
-                    "endOffset": 58490
+                    "endOffset": 58492
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3933,9 +3926,9 @@
                 "to": {
                     "startLine": 761,
                     "startColumn": 4,
-                    "startOffset": 58495,
+                    "startOffset": 58497,
                     "endColumn": 87,
-                    "endOffset": 58578
+                    "endOffset": 58580
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3945,9 +3938,9 @@
                 "to": {
                     "startLine": 762,
                     "startColumn": 4,
-                    "startOffset": 58583,
+                    "startOffset": 58585,
                     "endColumn": 95,
-                    "endOffset": 58674
+                    "endOffset": 58676
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\values\\values.xml"
@@ -3957,10 +3950,10 @@
                 "to": {
                     "startLine": 763,
                     "startColumn": 4,
-                    "startOffset": 58679,
+                    "startOffset": 58681,
                     "endLine": 766,
                     "endColumn": 12,
-                    "endOffset": 58961
+                    "endOffset": 58963
                 },
                 "from": {
                     "file": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\values\\values.xml"
@@ -3970,13 +3963,13 @@
                 "to": {
                     "startLine": 767,
                     "startColumn": 4,
-                    "startOffset": 58966,
+                    "startOffset": 58968,
                     "endLine": 772,
                     "endColumn": 12,
                     "endOffset": 59245
                 },
                 "from": {
-                    "file": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Vision Translator</string>
 
-    <string name="instructions">Tap to Translate and Speak. Pinch/Stretch to zoom</string>
+    <string name="instructions">Tap to Translate and Speak.\n Pinch/Stretch to zoom</string>
     <string name="speech_error">Unable to start Text To Speech Engine</string>
     <string name="camera_access">Access to the camera is needed for detection</string>
     <string name="accept">Accept</string>

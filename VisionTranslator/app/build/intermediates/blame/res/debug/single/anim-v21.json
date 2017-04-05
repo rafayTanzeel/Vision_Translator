@@ -1,14 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\Rafay\\.android\\build-cache\\17e8ba1f38c5e68ce60878ee0204a1a3fc6da0f1\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Rafay\\Desktop\\apps\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]
