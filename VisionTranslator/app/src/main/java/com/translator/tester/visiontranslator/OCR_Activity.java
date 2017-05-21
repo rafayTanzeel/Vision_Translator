@@ -74,6 +74,7 @@ public final class OCR_Activity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         Context context = getApplicationContext();
+        TranslateURL.setKey(context.getResources().getString(R.string.KEY));
 
         int permission = ActivityCompat.checkSelfPermission(this, Manifest.permission.CAMERA);
         if (permission == PackageManager.PERMISSION_GRANTED) {
@@ -188,7 +189,7 @@ public final class OCR_Activity extends AppCompatActivity {
         cameraSource = new CameraSource.Builder(context, textRecognizer)
                         .setFacing(CameraSource.CAMERA_FACING_BACK)
                         .setRequestedPreviewSize(1280, 1024)
-                        .setRequestedFps(30.0f)
+                        .setRequestedFps(15.0f)
                         .setFlashMode(flashLight ? Camera.Parameters.FLASH_MODE_TORCH : null)
                         .setFocusMode(autoFocus ? Camera.Parameters.FOCUS_MODE_CONTINUOUS_PICTURE : null)
                         .build();

@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\ba2215d6f882a11e6c6893c347a0bee350c6c621\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",

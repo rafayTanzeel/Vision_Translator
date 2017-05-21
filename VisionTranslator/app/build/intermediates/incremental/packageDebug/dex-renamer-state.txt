@@ -1,4 +1,4 @@
-#Wed Apr 05 08:28:20 PDT 2017
+#Sun May 21 05:56:05 PDT 2017
 base.0=C\:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6c211e731ab40be22adcadb551e33d40aab3d700
 renamed.1=classes.dex
 renamed.0=classes2.dex

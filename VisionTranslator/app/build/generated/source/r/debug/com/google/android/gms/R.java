@@ -72,7 +72,7 @@ public final class R {
         public static final int google_play_services_version = 0x7f0b0006;
     }
     public static final class string {
-        public static final int accept = 0x7f070032;
+        public static final int accept = 0x7f070033;
         public static final int common_google_play_services_enable_button = 0x7f070013;
         public static final int common_google_play_services_enable_text = 0x7f070014;
         public static final int common_google_play_services_enable_title = 0x7f070015;

@@ -5,7 +5,7 @@ import okhttp3.HttpUrl;
 
 public class TranslateURL {
 
-        private static final String KEY = "AIzaSyC1Iu2YwcvkwrY2jczBZQ_vSfnqj8IDwhk";
+        private static String KEY = "";
         private static final String URL = "https://translation.googleapis.com/language/translate/v2";
 
         private static String source = null;
@@ -22,6 +22,11 @@ public class TranslateURL {
                     return true;
             }
             return false;
+        }
+
+
+        public static void setKey(String key) {
+            KEY = key;
         }
 
         public static void TranslateConfig(String src, String tar, String lang) {

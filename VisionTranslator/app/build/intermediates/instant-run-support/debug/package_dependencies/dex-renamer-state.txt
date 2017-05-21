@@ -1,4 +1,4 @@
-#Wed Apr 05 08:20:35 PDT 2017
+#Sun May 21 05:43:14 PDT 2017
 file.2=C\:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_502bb30ab2f75af23d4187f04651cfb77ec145ef\\classes.dex
 base.2=C\:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_502bb30ab2f75af23d4187f04651cfb77ec145ef
 file.1=C\:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_95d29836f99c71021cb8d18b529899e94d0c5b42\\classes.dex

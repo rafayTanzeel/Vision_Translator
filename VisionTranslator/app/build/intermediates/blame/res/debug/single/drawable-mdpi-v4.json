@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\Rafay\\.android\\build-cache\\ba2215d6f882a11e6c6893c347a0bee350c6c621\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Rafay\\.android\\build-cache\\ba2215d6f882a11e6c6893c347a0bee350c6c621\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\eaea978249ef4828359a3d9062ad8a3dad074288\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Rafay\\.android\\build-cache\\e67d25b3c3c457c9b6d35ac55c121e63f8cd30ca\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\Rafay\\Desktop\\Vision_Translator\\VisionTranslator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
