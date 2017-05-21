@@ -10,4 +10,4 @@ Pinch and Stretch to zoom
 * OkHttp
 
 ### Note
-> This app uses Google Cloud Tranlsation API on trial. As soon as the trail ends, the application will fail to translated the detected sentence. In order to make it word, get the API key from your own google cloud translate api, and change the KEY string in the app/src/main/res/values/strings.xml to your own Google Translate Cloud API key
+> This app uses Google Cloud Tranlsation API on trial. As soon as the my trial ends, the application will fail to translated the detected sentence. In order to make it work, get the API key from your own google cloud translate api, and change the KEY string in the app/src/main/res/values/strings.xml to your own Google Translate Cloud API key
